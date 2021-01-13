@@ -1,5 +1,3 @@
-Edit
-No lines are selected.
 env_region = "us-east-1"
 project = "serverless"
 environment = "dev"
